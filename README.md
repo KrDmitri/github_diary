@@ -34,3 +34,9 @@ print('hello world')
 for i in 5:
   print(i)
 ```
+## Table
+|lang|country|rank|
+|---|---|---|
+|russian|russia|1|
+|korean|korea|2|
+|enlgish|england|3|
