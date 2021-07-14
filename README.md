@@ -12,10 +12,5 @@ second paragraph
 3. third
 ## list without sequence (use -,*,+)
 - greeting
-  -hello
-  -priviet
-  -nihao
-*bye
-  *poka
-  *froshai
-  *zaijian
+-   hello
+-   nihao
