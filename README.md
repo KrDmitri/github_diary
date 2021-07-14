@@ -27,4 +27,4 @@ second paragraph
 > > I am a duke
 > > > I will build ma empire
 ## inline code
-'what the hell is iniline code?'
+`what the hell is iniline code?`
