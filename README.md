@@ -2,6 +2,12 @@
 let me adapt to use github
 
 # how to use markdown
-## little topic :
+## little topic : how to change the row
 first paragraph<br/>
 second paragraph
+
+## list with sequence
+1. first
+2. second
+3. third
+
