@@ -12,5 +12,5 @@ second paragraph
 3. third
 ## list without sequence (use -,*,+)
 - greeting
--   hello
--   nihao
++ hello
+* nihao
