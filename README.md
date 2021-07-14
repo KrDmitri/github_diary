@@ -12,5 +12,11 @@ second paragraph
 3. third
 ## list without sequence (use -,*,+)
 - greeting
+  - russian
+  - korean
 + hello
+  + russian
+  + korean
 * nihao
+  * chinese
+  * korean
