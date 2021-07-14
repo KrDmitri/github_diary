@@ -10,4 +10,12 @@ second paragraph
 1. first
 2. second
 3. third
-
+## list without sequence (use -,*,+)
+- greeting
+  -hello
+  -priviet
+  -nihao
+*bye
+  *poka
+  *froshai
+  *zaijian
