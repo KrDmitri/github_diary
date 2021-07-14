@@ -28,3 +28,9 @@ second paragraph
 > > > I will build ma empire
 ## inline code
 `what the hell is iniline code?`
+## code block
+```python
+print('hello world')
+for i in 5:
+  print(i)
+```
