@@ -1,4 +1,7 @@
 # github_diary
 let me adapt to use github
 
-# github practice
+# how to use markdown
+## little topic :
+first paragraph<br/>
+second paragraph
