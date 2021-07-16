@@ -41,4 +41,4 @@ for i in 5:
 |korean|korea|2|
 |enlgish|england|3|
 ## fraction
-$^1/_2$
+1/_2$
