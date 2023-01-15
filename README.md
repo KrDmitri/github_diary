@@ -1,5 +1,5 @@
 # github_diary
-let me accustomed to use github
+
 
 # how to use markdown
 ## little topic : how to change the row
